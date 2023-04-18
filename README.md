@@ -14,4 +14,7 @@ Este é um projeto desenvolvido como parte do desafio ONE da Sprint 01. O objeti
 - CSS
 - JavaScript
 
+## Acessar pagina:
+- https://eriklisboa1.github.io/-Challenge-Oracle-One/
+
 ![Alt Text](https://github.com/eriklisboa1/-Challenge-Oracle-One/blob/main/projheto.png)
